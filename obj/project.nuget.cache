@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dv7tLi97irNVtypKPEqU5GzYyIBqqppHBxtIOVTAivUQlCuSyDADNy/S7PHHQfWye/+gpbeEs/1IAQW6/hJayQ==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\.NET\\EditorHtml\\EditorHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
