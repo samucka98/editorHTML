@@ -43,7 +43,7 @@ namespace EditorHtml
             Environment.Exit(0);
             break;
           }
-        case 1:; break;
+        case 1: Editor.Show(); break;
         case 2:; break;
         default: Show(); break;
       }
